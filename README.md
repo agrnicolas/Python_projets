@@ -1,2 +1,2 @@
 # Python_projets
-Projets python personnel, dans un but d'entrainement
+Projets personnels en python (data-science, finance et autre)
